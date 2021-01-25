@@ -1,0 +1,11 @@
+C:\Users\Adrian\Desktop\ApplicationWebApi\Application.BL\obj\Debug\netcoreapp3.0\Application.BL.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\ApplicationWebApi\Application.BL\obj\Debug\netcoreapp3.0\Application.BL.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\ApplicationWebApi\Application.BL\obj\Debug\netcoreapp3.0\Application.BL.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\ApplicationWebApi\Application.BL\bin\Debug\netcoreapp3.0\Application.BL.deps.json
+C:\Users\Adrian\Desktop\ApplicationWebApi\Application.BL\bin\Debug\netcoreapp3.0\Application.BL.dll
+C:\Users\Adrian\Desktop\ApplicationWebApi\Application.BL\bin\Debug\netcoreapp3.0\Application.BL.pdb
+C:\Users\Adrian\Desktop\ApplicationWebApi\Application.BL\bin\Debug\netcoreapp3.0\Application.DAL.dll
+C:\Users\Adrian\Desktop\ApplicationWebApi\Application.BL\bin\Debug\netcoreapp3.0\Application.DAL.pdb
+C:\Users\Adrian\Desktop\ApplicationWebApi\Application.BL\obj\Debug\netcoreapp3.0\Application.BL.csproj.CopyComplete
+C:\Users\Adrian\Desktop\ApplicationWebApi\Application.BL\obj\Debug\netcoreapp3.0\Application.BL.dll
+C:\Users\Adrian\Desktop\ApplicationWebApi\Application.BL\obj\Debug\netcoreapp3.0\Application.BL.pdb
